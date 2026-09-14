@@ -2,7 +2,7 @@
 
 $servidor = "sql200.infinityfree.com";
 $usuario = "if0_42918116";
-$password = "TU_CONTRASEÑA";
+$password = "dHk3GpHhEMKQ7B";
 $base_datos = "if0_42918116_graft_point";
 
 $conexion = new mysqli($servidor, $usuario, $password, $base_datos, 3306);
